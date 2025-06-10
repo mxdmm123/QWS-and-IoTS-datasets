@@ -1,0 +1,3524 @@
+{
+    "css_set": [
+        [
+            {
+                "Response Time": 33,
+                "Throughput": 73,
+                "Availability": 5,
+                "Reliability": 0.17,
+                "Power Consumption": 1839.12
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 8,
+                "Availability": 10,
+                "Reliability": 0.36,
+                "Power Consumption": 1646.77
+            },
+            {
+                "Response Time": 25,
+                "Throughput": 18,
+                "Availability": 8,
+                "Reliability": 0.26,
+                "Power Consumption": 1626.48
+            },
+            {
+                "Response Time": 4,
+                "Throughput": 35,
+                "Availability": 9,
+                "Reliability": 0.45,
+                "Power Consumption": 1277.47
+            },
+            {
+                "Response Time": 25,
+                "Throughput": 24,
+                "Availability": 4,
+                "Reliability": 0.67,
+                "Power Consumption": 1151.0
+            },
+            {
+                "Response Time": 34,
+                "Throughput": 82,
+                "Availability": 3,
+                "Reliability": 0.2,
+                "Power Consumption": 1426.51
+            },
+            {
+                "Response Time": 44,
+                "Throughput": 19,
+                "Availability": 3,
+                "Reliability": 1.0,
+                "Power Consumption": 1757.62
+            },
+            {
+                "Response Time": 1,
+                "Throughput": 3,
+                "Availability": 7,
+                "Reliability": 0.71,
+                "Power Consumption": 1041.55
+            },
+            {
+                "Response Time": 55,
+                "Throughput": 4,
+                "Availability": 7,
+                "Reliability": 0.27,
+                "Power Consumption": 1133.54
+            },
+            {
+                "Response Time": 2,
+                "Throughput": 98,
+                "Availability": 10,
+                "Reliability": 0.53,
+                "Power Consumption": 1651.24
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 45,
+                "Availability": 7,
+                "Reliability": 0.19,
+                "Power Consumption": 1691.47
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 80,
+                "Availability": 4,
+                "Reliability": 0.67,
+                "Power Consumption": 1416.91
+            },
+            {
+                "Response Time": 47,
+                "Throughput": 9,
+                "Availability": 7,
+                "Reliability": 0.24,
+                "Power Consumption": 1294.89
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 12,
+                "Availability": 7,
+                "Reliability": 0.31,
+                "Power Consumption": 1409.4
+            },
+            {
+                "Response Time": 52,
+                "Throughput": 26,
+                "Availability": 3,
+                "Reliability": 0.52,
+                "Power Consumption": 1189.74
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 83,
+                "Availability": 9,
+                "Reliability": 0.66,
+                "Power Consumption": 1523.71
+            },
+            {
+                "Response Time": 25,
+                "Throughput": 88,
+                "Availability": 10,
+                "Reliability": 0.62,
+                "Power Consumption": 1241.03
+            },
+            {
+                "Response Time": 26,
+                "Throughput": 34,
+                "Availability": 8,
+                "Reliability": 0.69,
+                "Power Consumption": 1449.29
+            },
+            {
+                "Response Time": 55,
+                "Throughput": 100,
+                "Availability": 6,
+                "Reliability": 0.41,
+                "Power Consumption": 1437.51
+            },
+            {
+                "Response Time": 43,
+                "Throughput": 18,
+                "Availability": 6,
+                "Reliability": 0.45,
+                "Power Consumption": 1212.09
+            },
+            {
+                "Response Time": 58,
+                "Throughput": 33,
+                "Availability": 4,
+                "Reliability": 0.93,
+                "Power Consumption": 1020.01
+            },
+            {
+                "Response Time": 44,
+                "Throughput": 51,
+                "Availability": 6,
+                "Reliability": 0.76,
+                "Power Consumption": 1746.96
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 36,
+                "Availability": 7,
+                "Reliability": 0.3,
+                "Power Consumption": 1470.1
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 62,
+                "Availability": 4,
+                "Reliability": 0.76,
+                "Power Consumption": 1828.47
+            },
+            {
+                "Response Time": 27,
+                "Throughput": 92,
+                "Availability": 8,
+                "Reliability": 0.48,
+                "Power Consumption": 1548.64
+            },
+            {
+                "Response Time": 50,
+                "Throughput": 58,
+                "Availability": 4,
+                "Reliability": 0.5,
+                "Power Consumption": 1581.15
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 72,
+                "Availability": 5,
+                "Reliability": 0.5,
+                "Power Consumption": 1879.28
+            },
+            {
+                "Response Time": 26,
+                "Throughput": 7,
+                "Availability": 6,
+                "Reliability": 0.5,
+                "Power Consumption": 1510.99
+            },
+            {
+                "Response Time": 41,
+                "Throughput": 32,
+                "Availability": 5,
+                "Reliability": 0.58,
+                "Power Consumption": 1656.83
+            },
+            {
+                "Response Time": 51,
+                "Throughput": 55,
+                "Availability": 8,
+                "Reliability": 0.75,
+                "Power Consumption": 1428.38
+            },
+            {
+                "Response Time": 14,
+                "Throughput": 42,
+                "Availability": 6,
+                "Reliability": 0.99,
+                "Power Consumption": 1650.42
+            },
+            {
+                "Response Time": 56,
+                "Throughput": 19,
+                "Availability": 8,
+                "Reliability": 0.88,
+                "Power Consumption": 1385.01
+            },
+            {
+                "Response Time": 37,
+                "Throughput": 9,
+                "Availability": 5,
+                "Reliability": 0.97,
+                "Power Consumption": 1458.07
+            },
+            {
+                "Response Time": 51,
+                "Throughput": 24,
+                "Availability": 7,
+                "Reliability": 0.3,
+                "Power Consumption": 1177.66
+            },
+            {
+                "Response Time": 54,
+                "Throughput": 17,
+                "Availability": 5,
+                "Reliability": 0.66,
+                "Power Consumption": 1133.86
+            },
+            {
+                "Response Time": 59,
+                "Throughput": 38,
+                "Availability": 5,
+                "Reliability": 0.45,
+                "Power Consumption": 1483.86
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 13,
+                "Availability": 7,
+                "Reliability": 0.66,
+                "Power Consumption": 1165.0
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 23,
+                "Availability": 3,
+                "Reliability": 0.54,
+                "Power Consumption": 1633.52
+            },
+            {
+                "Response Time": 13,
+                "Throughput": 86,
+                "Availability": 3,
+                "Reliability": 0.25,
+                "Power Consumption": 1655.98
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 75,
+                "Availability": 5,
+                "Reliability": 0.56,
+                "Power Consumption": 1583.16
+            },
+            {
+                "Response Time": 47,
+                "Throughput": 55,
+                "Availability": 9,
+                "Reliability": 0.67,
+                "Power Consumption": 1432.67
+            },
+            {
+                "Response Time": 14,
+                "Throughput": 10,
+                "Availability": 10,
+                "Reliability": 0.72,
+                "Power Consumption": 1646.89
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 94,
+                "Availability": 9,
+                "Reliability": 0.97,
+                "Power Consumption": 1289.56
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 49,
+                "Availability": 8,
+                "Reliability": 0.38,
+                "Power Consumption": 1566.49
+            },
+            {
+                "Response Time": 51,
+                "Throughput": 12,
+                "Availability": 7,
+                "Reliability": 0.24,
+                "Power Consumption": 1004.77
+            },
+            {
+                "Response Time": 18,
+                "Throughput": 1,
+                "Availability": 6,
+                "Reliability": 0.91,
+                "Power Consumption": 1325.95
+            },
+            {
+                "Response Time": 5,
+                "Throughput": 81,
+                "Availability": 7,
+                "Reliability": 0.54,
+                "Power Consumption": 1250.32
+            },
+            {
+                "Response Time": 20,
+                "Throughput": 80,
+                "Availability": 7,
+                "Reliability": 0.19,
+                "Power Consumption": 1230.86
+            },
+            {
+                "Response Time": 52,
+                "Throughput": 65,
+                "Availability": 9,
+                "Reliability": 0.62,
+                "Power Consumption": 1094.05
+            },
+            {
+                "Response Time": 52,
+                "Throughput": 66,
+                "Availability": 7,
+                "Reliability": 0.23,
+                "Power Consumption": 1526.22
+            }
+        ],
+        [
+            {
+                "Response Time": 20,
+                "Throughput": 69,
+                "Availability": 3,
+                "Reliability": 0.88,
+                "Power Consumption": 1479.89
+            },
+            {
+                "Response Time": 57,
+                "Throughput": 56,
+                "Availability": 4,
+                "Reliability": 0.1,
+                "Power Consumption": 1639.3
+            },
+            {
+                "Response Time": 37,
+                "Throughput": 38,
+                "Availability": 3,
+                "Reliability": 0.1,
+                "Power Consumption": 1325.11
+            },
+            {
+                "Response Time": 16,
+                "Throughput": 92,
+                "Availability": 6,
+                "Reliability": 0.58,
+                "Power Consumption": 1730.58
+            },
+            {
+                "Response Time": 52,
+                "Throughput": 36,
+                "Availability": 3,
+                "Reliability": 0.81,
+                "Power Consumption": 1744.35
+            },
+            {
+                "Response Time": 10,
+                "Throughput": 28,
+                "Availability": 5,
+                "Reliability": 0.39,
+                "Power Consumption": 1386.98
+            },
+            {
+                "Response Time": 23,
+                "Throughput": 17,
+                "Availability": 5,
+                "Reliability": 0.5,
+                "Power Consumption": 1578.28
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 1,
+                "Availability": 4,
+                "Reliability": 0.79,
+                "Power Consumption": 1431.98
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 69,
+                "Availability": 4,
+                "Reliability": 0.26,
+                "Power Consumption": 1423.06
+            },
+            {
+                "Response Time": 16,
+                "Throughput": 37,
+                "Availability": 7,
+                "Reliability": 0.25,
+                "Power Consumption": 1823.62
+            },
+            {
+                "Response Time": 32,
+                "Throughput": 96,
+                "Availability": 10,
+                "Reliability": 0.87,
+                "Power Consumption": 1324.23
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 54,
+                "Availability": 5,
+                "Reliability": 0.18,
+                "Power Consumption": 1267.04
+            },
+            {
+                "Response Time": 44,
+                "Throughput": 45,
+                "Availability": 8,
+                "Reliability": 0.79,
+                "Power Consumption": 1231.23
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 53,
+                "Availability": 10,
+                "Reliability": 0.78,
+                "Power Consumption": 1782.09
+            },
+            {
+                "Response Time": 30,
+                "Throughput": 99,
+                "Availability": 4,
+                "Reliability": 0.53,
+                "Power Consumption": 1406.81
+            },
+            {
+                "Response Time": 1,
+                "Throughput": 8,
+                "Availability": 4,
+                "Reliability": 0.28,
+                "Power Consumption": 1771.35
+            },
+            {
+                "Response Time": 1,
+                "Throughput": 44,
+                "Availability": 5,
+                "Reliability": 0.51,
+                "Power Consumption": 1656.47
+            },
+            {
+                "Response Time": 38,
+                "Throughput": 28,
+                "Availability": 4,
+                "Reliability": 0.51,
+                "Power Consumption": 1706.71
+            },
+            {
+                "Response Time": 38,
+                "Throughput": 42,
+                "Availability": 10,
+                "Reliability": 0.49,
+                "Power Consumption": 1223.79
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 82,
+                "Availability": 4,
+                "Reliability": 0.2,
+                "Power Consumption": 1788.86
+            },
+            {
+                "Response Time": 56,
+                "Throughput": 52,
+                "Availability": 9,
+                "Reliability": 0.65,
+                "Power Consumption": 1511.31
+            },
+            {
+                "Response Time": 5,
+                "Throughput": 1,
+                "Availability": 9,
+                "Reliability": 0.71,
+                "Power Consumption": 1443.09
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 41,
+                "Availability": 6,
+                "Reliability": 0.48,
+                "Power Consumption": 1826.51
+            },
+            {
+                "Response Time": 16,
+                "Throughput": 18,
+                "Availability": 10,
+                "Reliability": 0.98,
+                "Power Consumption": 1611.46
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 62,
+                "Availability": 7,
+                "Reliability": 0.44,
+                "Power Consumption": 1190.92
+            },
+            {
+                "Response Time": 52,
+                "Throughput": 3,
+                "Availability": 4,
+                "Reliability": 0.24,
+                "Power Consumption": 1349.8
+            },
+            {
+                "Response Time": 29,
+                "Throughput": 60,
+                "Availability": 4,
+                "Reliability": 0.79,
+                "Power Consumption": 1586.35
+            },
+            {
+                "Response Time": 34,
+                "Throughput": 53,
+                "Availability": 9,
+                "Reliability": 0.66,
+                "Power Consumption": 1371.39
+            },
+            {
+                "Response Time": 32,
+                "Throughput": 35,
+                "Availability": 9,
+                "Reliability": 0.3,
+                "Power Consumption": 1406.29
+            },
+            {
+                "Response Time": 26,
+                "Throughput": 74,
+                "Availability": 5,
+                "Reliability": 1.01,
+                "Power Consumption": 1575.98
+            },
+            {
+                "Response Time": 2,
+                "Throughput": 98,
+                "Availability": 10,
+                "Reliability": 0.91,
+                "Power Consumption": 1786.24
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 97,
+                "Availability": 7,
+                "Reliability": 0.23,
+                "Power Consumption": 1754.85
+            },
+            {
+                "Response Time": 1,
+                "Throughput": 21,
+                "Availability": 6,
+                "Reliability": 0.24,
+                "Power Consumption": 1807.21
+            },
+            {
+                "Response Time": 30,
+                "Throughput": 91,
+                "Availability": 4,
+                "Reliability": 0.35,
+                "Power Consumption": 1236.54
+            },
+            {
+                "Response Time": 23,
+                "Throughput": 96,
+                "Availability": 4,
+                "Reliability": 0.45,
+                "Power Consumption": 1321.4
+            },
+            {
+                "Response Time": 4,
+                "Throughput": 57,
+                "Availability": 9,
+                "Reliability": 0.84,
+                "Power Consumption": 1803.94
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 44,
+                "Availability": 6,
+                "Reliability": 0.77,
+                "Power Consumption": 1596.82
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 34,
+                "Availability": 9,
+                "Reliability": 0.6,
+                "Power Consumption": 1549.47
+            },
+            {
+                "Response Time": 24,
+                "Throughput": 71,
+                "Availability": 10,
+                "Reliability": 0.28,
+                "Power Consumption": 1059.39
+            },
+            {
+                "Response Time": 44,
+                "Throughput": 44,
+                "Availability": 9,
+                "Reliability": 0.83,
+                "Power Consumption": 1123.26
+            },
+            {
+                "Response Time": 38,
+                "Throughput": 42,
+                "Availability": 5,
+                "Reliability": 0.23,
+                "Power Consumption": 1619.24
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 85,
+                "Availability": 6,
+                "Reliability": 0.66,
+                "Power Consumption": 1510.62
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 72,
+                "Availability": 8,
+                "Reliability": 0.81,
+                "Power Consumption": 1189.83
+            },
+            {
+                "Response Time": 16,
+                "Throughput": 90,
+                "Availability": 5,
+                "Reliability": 0.23,
+                "Power Consumption": 1320.02
+            },
+            {
+                "Response Time": 44,
+                "Throughput": 74,
+                "Availability": 8,
+                "Reliability": 0.95,
+                "Power Consumption": 1973.87
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 94,
+                "Availability": 10,
+                "Reliability": 0.93,
+                "Power Consumption": 1619.84
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 100,
+                "Availability": 3,
+                "Reliability": 0.67,
+                "Power Consumption": 1469.8
+            },
+            {
+                "Response Time": 27,
+                "Throughput": 13,
+                "Availability": 5,
+                "Reliability": 0.26,
+                "Power Consumption": 1633.31
+            },
+            {
+                "Response Time": 49,
+                "Throughput": 74,
+                "Availability": 10,
+                "Reliability": 0.71,
+                "Power Consumption": 1201.52
+            },
+            {
+                "Response Time": 29,
+                "Throughput": 63,
+                "Availability": 3,
+                "Reliability": 0.82,
+                "Power Consumption": 1488.54
+            }
+        ],
+        [
+            {
+                "Response Time": 16,
+                "Throughput": 74,
+                "Availability": 6,
+                "Reliability": 0.37,
+                "Power Consumption": 1372.77
+            },
+            {
+                "Response Time": 51,
+                "Throughput": 85,
+                "Availability": 5,
+                "Reliability": 0.97,
+                "Power Consumption": 1463.62
+            },
+            {
+                "Response Time": 20,
+                "Throughput": 82,
+                "Availability": 3,
+                "Reliability": 0.98,
+                "Power Consumption": 1624.3
+            },
+            {
+                "Response Time": 51,
+                "Throughput": 57,
+                "Availability": 6,
+                "Reliability": 0.29,
+                "Power Consumption": 1916.64
+            },
+            {
+                "Response Time": 2,
+                "Throughput": 29,
+                "Availability": 3,
+                "Reliability": 0.82,
+                "Power Consumption": 1429.65
+            },
+            {
+                "Response Time": 44,
+                "Throughput": 86,
+                "Availability": 6,
+                "Reliability": 0.41,
+                "Power Consumption": 1162.18
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 34,
+                "Availability": 3,
+                "Reliability": 0.15,
+                "Power Consumption": 1392.51
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 70,
+                "Availability": 6,
+                "Reliability": 0.56,
+                "Power Consumption": 1418.34
+            },
+            {
+                "Response Time": 29,
+                "Throughput": 30,
+                "Availability": 10,
+                "Reliability": 0.72,
+                "Power Consumption": 1365.19
+            },
+            {
+                "Response Time": 26,
+                "Throughput": 12,
+                "Availability": 6,
+                "Reliability": 1.0,
+                "Power Consumption": 1483.34
+            },
+            {
+                "Response Time": 13,
+                "Throughput": 40,
+                "Availability": 4,
+                "Reliability": 0.4,
+                "Power Consumption": 1471.25
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 30,
+                "Availability": 3,
+                "Reliability": 0.64,
+                "Power Consumption": 1646.86
+            },
+            {
+                "Response Time": 14,
+                "Throughput": 38,
+                "Availability": 10,
+                "Reliability": 0.3,
+                "Power Consumption": 1235.67
+            },
+            {
+                "Response Time": 16,
+                "Throughput": 9,
+                "Availability": 3,
+                "Reliability": 0.18,
+                "Power Consumption": 1563.81
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 98,
+                "Availability": 8,
+                "Reliability": 0.1,
+                "Power Consumption": 1341.46
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 91,
+                "Availability": 8,
+                "Reliability": 0.97,
+                "Power Consumption": 1403.9
+            },
+            {
+                "Response Time": 46,
+                "Throughput": 55,
+                "Availability": 7,
+                "Reliability": 0.32,
+                "Power Consumption": 1416.5
+            },
+            {
+                "Response Time": 51,
+                "Throughput": 7,
+                "Availability": 10,
+                "Reliability": 0.95,
+                "Power Consumption": 1367.1
+            },
+            {
+                "Response Time": 23,
+                "Throughput": 85,
+                "Availability": 9,
+                "Reliability": 0.25,
+                "Power Consumption": 1694.09
+            },
+            {
+                "Response Time": 30,
+                "Throughput": 50,
+                "Availability": 3,
+                "Reliability": 0.24,
+                "Power Consumption": 1502.52
+            },
+            {
+                "Response Time": 59,
+                "Throughput": 81,
+                "Availability": 6,
+                "Reliability": 0.35,
+                "Power Consumption": 1093.06
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 32,
+                "Availability": 6,
+                "Reliability": 0.46,
+                "Power Consumption": 1428.25
+            },
+            {
+                "Response Time": 8,
+                "Throughput": 45,
+                "Availability": 4,
+                "Reliability": 0.59,
+                "Power Consumption": 1650.34
+            },
+            {
+                "Response Time": 4,
+                "Throughput": 82,
+                "Availability": 5,
+                "Reliability": 0.18,
+                "Power Consumption": 1544.22
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 70,
+                "Availability": 5,
+                "Reliability": 0.49,
+                "Power Consumption": 1838.87
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 52,
+                "Availability": 10,
+                "Reliability": 0.99,
+                "Power Consumption": 1868.74
+            },
+            {
+                "Response Time": 41,
+                "Throughput": 33,
+                "Availability": 7,
+                "Reliability": 0.5,
+                "Power Consumption": 1386.72
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 52,
+                "Availability": 7,
+                "Reliability": 0.4,
+                "Power Consumption": 1703.51
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 37,
+                "Availability": 5,
+                "Reliability": 0.29,
+                "Power Consumption": 1993.23
+            },
+            {
+                "Response Time": 54,
+                "Throughput": 38,
+                "Availability": 7,
+                "Reliability": 0.22,
+                "Power Consumption": 1653.0
+            },
+            {
+                "Response Time": 26,
+                "Throughput": 98,
+                "Availability": 10,
+                "Reliability": 0.18,
+                "Power Consumption": 1263.17
+            },
+            {
+                "Response Time": 32,
+                "Throughput": 12,
+                "Availability": 8,
+                "Reliability": 0.47,
+                "Power Consumption": 1381.1
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 100,
+                "Availability": 10,
+                "Reliability": 0.69,
+                "Power Consumption": 1495.14
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 98,
+                "Availability": 3,
+                "Reliability": 0.36,
+                "Power Consumption": 1159.29
+            },
+            {
+                "Response Time": 36,
+                "Throughput": 29,
+                "Availability": 9,
+                "Reliability": 0.44,
+                "Power Consumption": 1373.74
+            },
+            {
+                "Response Time": 10,
+                "Throughput": 46,
+                "Availability": 6,
+                "Reliability": 0.37,
+                "Power Consumption": 1486.87
+            },
+            {
+                "Response Time": 58,
+                "Throughput": 32,
+                "Availability": 9,
+                "Reliability": 0.74,
+                "Power Consumption": 1585.82
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 86,
+                "Availability": 10,
+                "Reliability": 0.65,
+                "Power Consumption": 1615.43
+            },
+            {
+                "Response Time": 37,
+                "Throughput": 29,
+                "Availability": 5,
+                "Reliability": 0.28,
+                "Power Consumption": 1464.36
+            },
+            {
+                "Response Time": 9,
+                "Throughput": 82,
+                "Availability": 7,
+                "Reliability": 0.92,
+                "Power Consumption": 1158.16
+            },
+            {
+                "Response Time": 34,
+                "Throughput": 42,
+                "Availability": 8,
+                "Reliability": 0.4,
+                "Power Consumption": 1881.55
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 46,
+                "Availability": 4,
+                "Reliability": 0.36,
+                "Power Consumption": 1695.08
+            },
+            {
+                "Response Time": 59,
+                "Throughput": 38,
+                "Availability": 8,
+                "Reliability": 0.43,
+                "Power Consumption": 1228.13
+            },
+            {
+                "Response Time": 29,
+                "Throughput": 70,
+                "Availability": 9,
+                "Reliability": 0.3,
+                "Power Consumption": 1698.81
+            },
+            {
+                "Response Time": 32,
+                "Throughput": 84,
+                "Availability": 6,
+                "Reliability": 0.76,
+                "Power Consumption": 1794.46
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 17,
+                "Availability": 4,
+                "Reliability": 0.54,
+                "Power Consumption": 1533.94
+            },
+            {
+                "Response Time": 51,
+                "Throughput": 10,
+                "Availability": 10,
+                "Reliability": 0.44,
+                "Power Consumption": 1498.86
+            },
+            {
+                "Response Time": 30,
+                "Throughput": 26,
+                "Availability": 10,
+                "Reliability": 0.28,
+                "Power Consumption": 1974.48
+            },
+            {
+                "Response Time": 22,
+                "Throughput": 24,
+                "Availability": 10,
+                "Reliability": 0.23,
+                "Power Consumption": 1536.95
+            },
+            {
+                "Response Time": 18,
+                "Throughput": 24,
+                "Availability": 9,
+                "Reliability": 0.3,
+                "Power Consumption": 1660.14
+            }
+        ],
+        [
+            {
+                "Response Time": 8,
+                "Throughput": 44,
+                "Availability": 9,
+                "Reliability": 0.92,
+                "Power Consumption": 1331.29
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 57,
+                "Availability": 7,
+                "Reliability": 0.64,
+                "Power Consumption": 1736.74
+            },
+            {
+                "Response Time": 45,
+                "Throughput": 76,
+                "Availability": 10,
+                "Reliability": 0.85,
+                "Power Consumption": 1576.9
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 11,
+                "Availability": 10,
+                "Reliability": 0.61,
+                "Power Consumption": 1186.45
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 23,
+                "Availability": 6,
+                "Reliability": 0.37,
+                "Power Consumption": 1797.84
+            },
+            {
+                "Response Time": 44,
+                "Throughput": 2,
+                "Availability": 6,
+                "Reliability": 0.99,
+                "Power Consumption": 1399.06
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 14,
+                "Availability": 6,
+                "Reliability": 0.18,
+                "Power Consumption": 1901.83
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 54,
+                "Availability": 8,
+                "Reliability": 0.5,
+                "Power Consumption": 1200.34
+            },
+            {
+                "Response Time": 52,
+                "Throughput": 40,
+                "Availability": 7,
+                "Reliability": 0.69,
+                "Power Consumption": 1346.08
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 5,
+                "Availability": 8,
+                "Reliability": 0.76,
+                "Power Consumption": 1285.54
+            },
+            {
+                "Response Time": 27,
+                "Throughput": 82,
+                "Availability": 8,
+                "Reliability": 0.16,
+                "Power Consumption": 1583.1
+            },
+            {
+                "Response Time": 32,
+                "Throughput": 22,
+                "Availability": 10,
+                "Reliability": 0.32,
+                "Power Consumption": 1397.3
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 76,
+                "Availability": 10,
+                "Reliability": 0.93,
+                "Power Consumption": 1367.04
+            },
+            {
+                "Response Time": 20,
+                "Throughput": 38,
+                "Availability": 5,
+                "Reliability": 0.33,
+                "Power Consumption": 1318.46
+            },
+            {
+                "Response Time": 47,
+                "Throughput": 92,
+                "Availability": 9,
+                "Reliability": 0.64,
+                "Power Consumption": 1261.19
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 59,
+                "Availability": 7,
+                "Reliability": 0.41,
+                "Power Consumption": 1550.51
+            },
+            {
+                "Response Time": 18,
+                "Throughput": 65,
+                "Availability": 10,
+                "Reliability": 0.85,
+                "Power Consumption": 1609.91
+            },
+            {
+                "Response Time": 36,
+                "Throughput": 80,
+                "Availability": 10,
+                "Reliability": 0.59,
+                "Power Consumption": 1556.07
+            },
+            {
+                "Response Time": 34,
+                "Throughput": 53,
+                "Availability": 3,
+                "Reliability": 0.34,
+                "Power Consumption": 1454.81
+            },
+            {
+                "Response Time": 55,
+                "Throughput": 28,
+                "Availability": 8,
+                "Reliability": 0.26,
+                "Power Consumption": 1715.1
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 67,
+                "Availability": 3,
+                "Reliability": 0.75,
+                "Power Consumption": 1557.14
+            },
+            {
+                "Response Time": 5,
+                "Throughput": 3,
+                "Availability": 8,
+                "Reliability": 1.01,
+                "Power Consumption": 1745.71
+            },
+            {
+                "Response Time": 26,
+                "Throughput": 74,
+                "Availability": 10,
+                "Reliability": 0.9,
+                "Power Consumption": 1601.39
+            },
+            {
+                "Response Time": 6,
+                "Throughput": 3,
+                "Availability": 3,
+                "Reliability": 0.72,
+                "Power Consumption": 1229.16
+            },
+            {
+                "Response Time": 52,
+                "Throughput": 33,
+                "Availability": 6,
+                "Reliability": 0.81,
+                "Power Consumption": 1289.83
+            },
+            {
+                "Response Time": 48,
+                "Throughput": 48,
+                "Availability": 4,
+                "Reliability": 0.61,
+                "Power Consumption": 1390.35
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 100,
+                "Availability": 7,
+                "Reliability": 0.77,
+                "Power Consumption": 1666.53
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 45,
+                "Availability": 5,
+                "Reliability": 1.0,
+                "Power Consumption": 1278.56
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 53,
+                "Availability": 4,
+                "Reliability": 0.56,
+                "Power Consumption": 1499.9
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 70,
+                "Availability": 6,
+                "Reliability": 0.61,
+                "Power Consumption": 1450.9
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 35,
+                "Availability": 7,
+                "Reliability": 0.75,
+                "Power Consumption": 1501.0
+            },
+            {
+                "Response Time": 25,
+                "Throughput": 24,
+                "Availability": 7,
+                "Reliability": 1.0,
+                "Power Consumption": 1033.04
+            },
+            {
+                "Response Time": 35,
+                "Throughput": 77,
+                "Availability": 3,
+                "Reliability": 0.67,
+                "Power Consumption": 1277.78
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 51,
+                "Availability": 9,
+                "Reliability": 0.32,
+                "Power Consumption": 1210.63
+            },
+            {
+                "Response Time": 50,
+                "Throughput": 84,
+                "Availability": 9,
+                "Reliability": 0.56,
+                "Power Consumption": 1180.54
+            },
+            {
+                "Response Time": 32,
+                "Throughput": 36,
+                "Availability": 10,
+                "Reliability": 0.38,
+                "Power Consumption": 1720.58
+            },
+            {
+                "Response Time": 58,
+                "Throughput": 38,
+                "Availability": 7,
+                "Reliability": 0.13,
+                "Power Consumption": 1507.63
+            },
+            {
+                "Response Time": 7,
+                "Throughput": 60,
+                "Availability": 5,
+                "Reliability": 0.6,
+                "Power Consumption": 1143.28
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 89,
+                "Availability": 3,
+                "Reliability": 0.65,
+                "Power Consumption": 1241.72
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 16,
+                "Availability": 9,
+                "Reliability": 0.89,
+                "Power Consumption": 1209.23
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 91,
+                "Availability": 10,
+                "Reliability": 0.17,
+                "Power Consumption": 1678.26
+            },
+            {
+                "Response Time": 41,
+                "Throughput": 92,
+                "Availability": 5,
+                "Reliability": 0.55,
+                "Power Consumption": 1201.13
+            },
+            {
+                "Response Time": 5,
+                "Throughput": 60,
+                "Availability": 5,
+                "Reliability": 0.65,
+                "Power Consumption": 1647.32
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 50,
+                "Availability": 9,
+                "Reliability": 0.21,
+                "Power Consumption": 1772.27
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 42,
+                "Availability": 8,
+                "Reliability": 0.37,
+                "Power Consumption": 1451.32
+            },
+            {
+                "Response Time": 18,
+                "Throughput": 77,
+                "Availability": 9,
+                "Reliability": 0.23,
+                "Power Consumption": 1707.69
+            },
+            {
+                "Response Time": 47,
+                "Throughput": 77,
+                "Availability": 6,
+                "Reliability": 0.19,
+                "Power Consumption": 1174.37
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 45,
+                "Availability": 3,
+                "Reliability": 0.89,
+                "Power Consumption": 1282.94
+            },
+            {
+                "Response Time": 57,
+                "Throughput": 27,
+                "Availability": 7,
+                "Reliability": 0.66,
+                "Power Consumption": 1488.47
+            },
+            {
+                "Response Time": 40,
+                "Throughput": 89,
+                "Availability": 7,
+                "Reliability": 0.51,
+                "Power Consumption": 1533.18
+            }
+        ],
+        [
+            {
+                "Response Time": 42,
+                "Throughput": 85,
+                "Availability": 8,
+                "Reliability": 0.2,
+                "Power Consumption": 1461.97
+            },
+            {
+                "Response Time": 37,
+                "Throughput": 85,
+                "Availability": 3,
+                "Reliability": 0.97,
+                "Power Consumption": 1590.86
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 68,
+                "Availability": 6,
+                "Reliability": 0.41,
+                "Power Consumption": 1672.8
+            },
+            {
+                "Response Time": 34,
+                "Throughput": 32,
+                "Availability": 9,
+                "Reliability": 0.46,
+                "Power Consumption": 1096.94
+            },
+            {
+                "Response Time": 7,
+                "Throughput": 73,
+                "Availability": 4,
+                "Reliability": 0.54,
+                "Power Consumption": 1663.79
+            },
+            {
+                "Response Time": 23,
+                "Throughput": 54,
+                "Availability": 8,
+                "Reliability": 0.56,
+                "Power Consumption": 1191.77
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 2,
+                "Availability": 6,
+                "Reliability": 0.37,
+                "Power Consumption": 1231.23
+            },
+            {
+                "Response Time": 59,
+                "Throughput": 87,
+                "Availability": 7,
+                "Reliability": 0.17,
+                "Power Consumption": 1082.43
+            },
+            {
+                "Response Time": 30,
+                "Throughput": 83,
+                "Availability": 7,
+                "Reliability": 0.15,
+                "Power Consumption": 1346.21
+            },
+            {
+                "Response Time": 30,
+                "Throughput": 96,
+                "Availability": 3,
+                "Reliability": 0.41,
+                "Power Consumption": 1404.38
+            },
+            {
+                "Response Time": 29,
+                "Throughput": 72,
+                "Availability": 9,
+                "Reliability": 0.7,
+                "Power Consumption": 1344.13
+            },
+            {
+                "Response Time": 49,
+                "Throughput": 18,
+                "Availability": 5,
+                "Reliability": 0.17,
+                "Power Consumption": 1255.25
+            },
+            {
+                "Response Time": 29,
+                "Throughput": 6,
+                "Availability": 5,
+                "Reliability": 0.19,
+                "Power Consumption": 1678.54
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 55,
+                "Availability": 5,
+                "Reliability": 0.85,
+                "Power Consumption": 1634.36
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 54,
+                "Availability": 6,
+                "Reliability": 0.12,
+                "Power Consumption": 1729.16
+            },
+            {
+                "Response Time": 25,
+                "Throughput": 27,
+                "Availability": 9,
+                "Reliability": 0.13,
+                "Power Consumption": 1709.92
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 42,
+                "Availability": 10,
+                "Reliability": 0.6,
+                "Power Consumption": 1552.41
+            },
+            {
+                "Response Time": 27,
+                "Throughput": 42,
+                "Availability": 5,
+                "Reliability": 0.35,
+                "Power Consumption": 1415.99
+            },
+            {
+                "Response Time": 57,
+                "Throughput": 32,
+                "Availability": 4,
+                "Reliability": 0.98,
+                "Power Consumption": 1655.72
+            },
+            {
+                "Response Time": 6,
+                "Throughput": 27,
+                "Availability": 10,
+                "Reliability": 0.96,
+                "Power Consumption": 1745.64
+            },
+            {
+                "Response Time": 2,
+                "Throughput": 97,
+                "Availability": 10,
+                "Reliability": 0.56,
+                "Power Consumption": 1474.02
+            },
+            {
+                "Response Time": 33,
+                "Throughput": 94,
+                "Availability": 10,
+                "Reliability": 0.35,
+                "Power Consumption": 1731.4
+            },
+            {
+                "Response Time": 56,
+                "Throughput": 10,
+                "Availability": 8,
+                "Reliability": 0.9,
+                "Power Consumption": 1440.05
+            },
+            {
+                "Response Time": 51,
+                "Throughput": 36,
+                "Availability": 3,
+                "Reliability": 0.47,
+                "Power Consumption": 1678.02
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 75,
+                "Availability": 9,
+                "Reliability": 0.2,
+                "Power Consumption": 1406.19
+            },
+            {
+                "Response Time": 18,
+                "Throughput": 80,
+                "Availability": 3,
+                "Reliability": 0.66,
+                "Power Consumption": 1353.02
+            },
+            {
+                "Response Time": 29,
+                "Throughput": 59,
+                "Availability": 5,
+                "Reliability": 0.51,
+                "Power Consumption": 1246.58
+            },
+            {
+                "Response Time": 25,
+                "Throughput": 59,
+                "Availability": 3,
+                "Reliability": 1.01,
+                "Power Consumption": 1554.33
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 82,
+                "Availability": 8,
+                "Reliability": 0.87,
+                "Power Consumption": 1679.3
+            },
+            {
+                "Response Time": 40,
+                "Throughput": 60,
+                "Availability": 8,
+                "Reliability": 0.43,
+                "Power Consumption": 1649.72
+            },
+            {
+                "Response Time": 25,
+                "Throughput": 69,
+                "Availability": 7,
+                "Reliability": 0.84,
+                "Power Consumption": 1798.41
+            },
+            {
+                "Response Time": 11,
+                "Throughput": 99,
+                "Availability": 9,
+                "Reliability": 0.18,
+                "Power Consumption": 1369.05
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 60,
+                "Availability": 10,
+                "Reliability": 0.43,
+                "Power Consumption": 1411.51
+            },
+            {
+                "Response Time": 33,
+                "Throughput": 60,
+                "Availability": 7,
+                "Reliability": 0.75,
+                "Power Consumption": 1677.24
+            },
+            {
+                "Response Time": 23,
+                "Throughput": 36,
+                "Availability": 7,
+                "Reliability": 0.59,
+                "Power Consumption": 1683.46
+            },
+            {
+                "Response Time": 38,
+                "Throughput": 10,
+                "Availability": 6,
+                "Reliability": 0.77,
+                "Power Consumption": 1713.2
+            },
+            {
+                "Response Time": 48,
+                "Throughput": 53,
+                "Availability": 10,
+                "Reliability": 0.74,
+                "Power Consumption": 1293.99
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 49,
+                "Availability": 8,
+                "Reliability": 1.01,
+                "Power Consumption": 1673.62
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 14,
+                "Availability": 4,
+                "Reliability": 0.27,
+                "Power Consumption": 1291.02
+            },
+            {
+                "Response Time": 43,
+                "Throughput": 27,
+                "Availability": 7,
+                "Reliability": 0.28,
+                "Power Consumption": 1379.83
+            },
+            {
+                "Response Time": 9,
+                "Throughput": 32,
+                "Availability": 8,
+                "Reliability": 0.53,
+                "Power Consumption": 1965.07
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 85,
+                "Availability": 9,
+                "Reliability": 0.44,
+                "Power Consumption": 1452.18
+            },
+            {
+                "Response Time": 59,
+                "Throughput": 86,
+                "Availability": 7,
+                "Reliability": 0.35,
+                "Power Consumption": 1735.55
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 66,
+                "Availability": 10,
+                "Reliability": 0.27,
+                "Power Consumption": 1489.11
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 6,
+                "Availability": 5,
+                "Reliability": 0.36,
+                "Power Consumption": 1215.71
+            },
+            {
+                "Response Time": 10,
+                "Throughput": 26,
+                "Availability": 8,
+                "Reliability": 0.17,
+                "Power Consumption": 1313.57
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 45,
+                "Availability": 7,
+                "Reliability": 0.91,
+                "Power Consumption": 1280.25
+            },
+            {
+                "Response Time": 43,
+                "Throughput": 32,
+                "Availability": 9,
+                "Reliability": 0.83,
+                "Power Consumption": 1068.02
+            },
+            {
+                "Response Time": 44,
+                "Throughput": 20,
+                "Availability": 5,
+                "Reliability": 0.31,
+                "Power Consumption": 1905.39
+            },
+            {
+                "Response Time": 25,
+                "Throughput": 5,
+                "Availability": 5,
+                "Reliability": 0.89,
+                "Power Consumption": 1669.14
+            }
+        ],
+        [
+            {
+                "Response Time": 26,
+                "Throughput": 98,
+                "Availability": 10,
+                "Reliability": 0.21,
+                "Power Consumption": 1490.6
+            },
+            {
+                "Response Time": 23,
+                "Throughput": 8,
+                "Availability": 10,
+                "Reliability": 0.97,
+                "Power Consumption": 1208.04
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 59,
+                "Availability": 8,
+                "Reliability": 0.19,
+                "Power Consumption": 1300.43
+            },
+            {
+                "Response Time": 22,
+                "Throughput": 12,
+                "Availability": 3,
+                "Reliability": 0.34,
+                "Power Consumption": 1141.84
+            },
+            {
+                "Response Time": 11,
+                "Throughput": 24,
+                "Availability": 9,
+                "Reliability": 0.42,
+                "Power Consumption": 1129.47
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 1,
+                "Availability": 9,
+                "Reliability": 0.93,
+                "Power Consumption": 1974.48
+            },
+            {
+                "Response Time": 27,
+                "Throughput": 61,
+                "Availability": 10,
+                "Reliability": 0.39,
+                "Power Consumption": 1376.76
+            },
+            {
+                "Response Time": 34,
+                "Throughput": 95,
+                "Availability": 7,
+                "Reliability": 0.63,
+                "Power Consumption": 1476.21
+            },
+            {
+                "Response Time": 5,
+                "Throughput": 45,
+                "Availability": 9,
+                "Reliability": 0.35,
+                "Power Consumption": 1219.72
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 7,
+                "Availability": 4,
+                "Reliability": 0.93,
+                "Power Consumption": 1577.94
+            },
+            {
+                "Response Time": 16,
+                "Throughput": 8,
+                "Availability": 9,
+                "Reliability": 0.13,
+                "Power Consumption": 1085.27
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 97,
+                "Availability": 6,
+                "Reliability": 0.11,
+                "Power Consumption": 1155.26
+            },
+            {
+                "Response Time": 54,
+                "Throughput": 98,
+                "Availability": 9,
+                "Reliability": 0.25,
+                "Power Consumption": 1639.22
+            },
+            {
+                "Response Time": 58,
+                "Throughput": 53,
+                "Availability": 9,
+                "Reliability": 0.35,
+                "Power Consumption": 1937.87
+            },
+            {
+                "Response Time": 24,
+                "Throughput": 96,
+                "Availability": 5,
+                "Reliability": 0.62,
+                "Power Consumption": 1613.81
+            },
+            {
+                "Response Time": 4,
+                "Throughput": 7,
+                "Availability": 3,
+                "Reliability": 0.91,
+                "Power Consumption": 1256.26
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 65,
+                "Availability": 9,
+                "Reliability": 0.76,
+                "Power Consumption": 1564.35
+            },
+            {
+                "Response Time": 1,
+                "Throughput": 71,
+                "Availability": 10,
+                "Reliability": 0.32,
+                "Power Consumption": 1458.23
+            },
+            {
+                "Response Time": 11,
+                "Throughput": 39,
+                "Availability": 5,
+                "Reliability": 0.59,
+                "Power Consumption": 1400.81
+            },
+            {
+                "Response Time": 43,
+                "Throughput": 96,
+                "Availability": 8,
+                "Reliability": 0.36,
+                "Power Consumption": 1079.71
+            },
+            {
+                "Response Time": 22,
+                "Throughput": 17,
+                "Availability": 5,
+                "Reliability": 0.73,
+                "Power Consumption": 1795.3
+            },
+            {
+                "Response Time": 5,
+                "Throughput": 21,
+                "Availability": 4,
+                "Reliability": 0.52,
+                "Power Consumption": 1339.29
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 68,
+                "Availability": 6,
+                "Reliability": 0.87,
+                "Power Consumption": 1308.12
+            },
+            {
+                "Response Time": 43,
+                "Throughput": 92,
+                "Availability": 9,
+                "Reliability": 0.83,
+                "Power Consumption": 1408.6
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 93,
+                "Availability": 6,
+                "Reliability": 0.47,
+                "Power Consumption": 1465.15
+            },
+            {
+                "Response Time": 22,
+                "Throughput": 52,
+                "Availability": 4,
+                "Reliability": 0.84,
+                "Power Consumption": 1583.01
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 77,
+                "Availability": 5,
+                "Reliability": 0.24,
+                "Power Consumption": 1103.38
+            },
+            {
+                "Response Time": 52,
+                "Throughput": 55,
+                "Availability": 6,
+                "Reliability": 0.54,
+                "Power Consumption": 1811.76
+            },
+            {
+                "Response Time": 49,
+                "Throughput": 75,
+                "Availability": 8,
+                "Reliability": 0.26,
+                "Power Consumption": 1604.65
+            },
+            {
+                "Response Time": 33,
+                "Throughput": 42,
+                "Availability": 10,
+                "Reliability": 0.72,
+                "Power Consumption": 1166.87
+            },
+            {
+                "Response Time": 56,
+                "Throughput": 45,
+                "Availability": 4,
+                "Reliability": 0.77,
+                "Power Consumption": 1235.86
+            },
+            {
+                "Response Time": 10,
+                "Throughput": 80,
+                "Availability": 4,
+                "Reliability": 0.66,
+                "Power Consumption": 1941.43
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 81,
+                "Availability": 4,
+                "Reliability": 0.37,
+                "Power Consumption": 1282.43
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 23,
+                "Availability": 8,
+                "Reliability": 0.25,
+                "Power Consumption": 1471.17
+            },
+            {
+                "Response Time": 8,
+                "Throughput": 45,
+                "Availability": 9,
+                "Reliability": 0.5,
+                "Power Consumption": 1415.08
+            },
+            {
+                "Response Time": 50,
+                "Throughput": 15,
+                "Availability": 9,
+                "Reliability": 0.73,
+                "Power Consumption": 1780.87
+            },
+            {
+                "Response Time": 4,
+                "Throughput": 76,
+                "Availability": 10,
+                "Reliability": 0.92,
+                "Power Consumption": 1111.93
+            },
+            {
+                "Response Time": 27,
+                "Throughput": 69,
+                "Availability": 4,
+                "Reliability": 0.61,
+                "Power Consumption": 1533.41
+            },
+            {
+                "Response Time": 46,
+                "Throughput": 77,
+                "Availability": 5,
+                "Reliability": 0.46,
+                "Power Consumption": 1830.98
+            },
+            {
+                "Response Time": 13,
+                "Throughput": 48,
+                "Availability": 6,
+                "Reliability": 0.83,
+                "Power Consumption": 1451.33
+            },
+            {
+                "Response Time": 22,
+                "Throughput": 11,
+                "Availability": 7,
+                "Reliability": 0.23,
+                "Power Consumption": 1677.47
+            },
+            {
+                "Response Time": 34,
+                "Throughput": 88,
+                "Availability": 3,
+                "Reliability": 0.43,
+                "Power Consumption": 1503.67
+            },
+            {
+                "Response Time": 54,
+                "Throughput": 78,
+                "Availability": 8,
+                "Reliability": 0.45,
+                "Power Consumption": 1388.49
+            },
+            {
+                "Response Time": 35,
+                "Throughput": 97,
+                "Availability": 10,
+                "Reliability": 0.97,
+                "Power Consumption": 1669.36
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 23,
+                "Availability": 4,
+                "Reliability": 0.82,
+                "Power Consumption": 1680.73
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 70,
+                "Availability": 9,
+                "Reliability": 0.83,
+                "Power Consumption": 1413.97
+            },
+            {
+                "Response Time": 11,
+                "Throughput": 12,
+                "Availability": 9,
+                "Reliability": 0.26,
+                "Power Consumption": 1297.49
+            },
+            {
+                "Response Time": 24,
+                "Throughput": 93,
+                "Availability": 3,
+                "Reliability": 0.17,
+                "Power Consumption": 1169.56
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 51,
+                "Availability": 8,
+                "Reliability": 0.49,
+                "Power Consumption": 1366.57
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 18,
+                "Availability": 6,
+                "Reliability": 0.33,
+                "Power Consumption": 1297.19
+            }
+        ],
+        [
+            {
+                "Response Time": 5,
+                "Throughput": 35,
+                "Availability": 3,
+                "Reliability": 0.51,
+                "Power Consumption": 1911.59
+            },
+            {
+                "Response Time": 26,
+                "Throughput": 38,
+                "Availability": 8,
+                "Reliability": 0.18,
+                "Power Consumption": 1608.78
+            },
+            {
+                "Response Time": 16,
+                "Throughput": 68,
+                "Availability": 4,
+                "Reliability": 0.76,
+                "Power Consumption": 1811.58
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 24,
+                "Availability": 9,
+                "Reliability": 0.17,
+                "Power Consumption": 1729.47
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 15,
+                "Availability": 7,
+                "Reliability": 0.11,
+                "Power Consumption": 1919.42
+            },
+            {
+                "Response Time": 8,
+                "Throughput": 56,
+                "Availability": 6,
+                "Reliability": 0.26,
+                "Power Consumption": 1587.94
+            },
+            {
+                "Response Time": 24,
+                "Throughput": 77,
+                "Availability": 3,
+                "Reliability": 0.91,
+                "Power Consumption": 1631.59
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 24,
+                "Availability": 3,
+                "Reliability": 0.87,
+                "Power Consumption": 1361.94
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 30,
+                "Availability": 6,
+                "Reliability": 0.94,
+                "Power Consumption": 1265.42
+            },
+            {
+                "Response Time": 37,
+                "Throughput": 20,
+                "Availability": 6,
+                "Reliability": 0.82,
+                "Power Consumption": 1599.18
+            },
+            {
+                "Response Time": 27,
+                "Throughput": 58,
+                "Availability": 9,
+                "Reliability": 0.35,
+                "Power Consumption": 1747.12
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 73,
+                "Availability": 8,
+                "Reliability": 0.55,
+                "Power Consumption": 1900.3
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 19,
+                "Availability": 3,
+                "Reliability": 0.59,
+                "Power Consumption": 1428.5
+            },
+            {
+                "Response Time": 11,
+                "Throughput": 35,
+                "Availability": 5,
+                "Reliability": 0.59,
+                "Power Consumption": 1299.54
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 68,
+                "Availability": 5,
+                "Reliability": 0.27,
+                "Power Consumption": 1431.12
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 13,
+                "Availability": 3,
+                "Reliability": 0.78,
+                "Power Consumption": 1491.72
+            },
+            {
+                "Response Time": 13,
+                "Throughput": 63,
+                "Availability": 8,
+                "Reliability": 0.46,
+                "Power Consumption": 1686.82
+            },
+            {
+                "Response Time": 34,
+                "Throughput": 96,
+                "Availability": 4,
+                "Reliability": 0.93,
+                "Power Consumption": 1144.21
+            },
+            {
+                "Response Time": 13,
+                "Throughput": 73,
+                "Availability": 3,
+                "Reliability": 0.39,
+                "Power Consumption": 1688.06
+            },
+            {
+                "Response Time": 37,
+                "Throughput": 66,
+                "Availability": 5,
+                "Reliability": 0.23,
+                "Power Consumption": 1310.68
+            },
+            {
+                "Response Time": 43,
+                "Throughput": 40,
+                "Availability": 5,
+                "Reliability": 0.78,
+                "Power Consumption": 1252.51
+            },
+            {
+                "Response Time": 32,
+                "Throughput": 61,
+                "Availability": 9,
+                "Reliability": 0.51,
+                "Power Consumption": 1540.23
+            },
+            {
+                "Response Time": 45,
+                "Throughput": 16,
+                "Availability": 6,
+                "Reliability": 0.89,
+                "Power Consumption": 1219.2
+            },
+            {
+                "Response Time": 47,
+                "Throughput": 14,
+                "Availability": 4,
+                "Reliability": 0.52,
+                "Power Consumption": 1630.23
+            },
+            {
+                "Response Time": 37,
+                "Throughput": 82,
+                "Availability": 6,
+                "Reliability": 0.32,
+                "Power Consumption": 1693.46
+            },
+            {
+                "Response Time": 27,
+                "Throughput": 94,
+                "Availability": 8,
+                "Reliability": 0.93,
+                "Power Consumption": 1462.67
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 46,
+                "Availability": 10,
+                "Reliability": 0.78,
+                "Power Consumption": 1476.62
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 21,
+                "Availability": 6,
+                "Reliability": 0.41,
+                "Power Consumption": 1430.96
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 5,
+                "Availability": 7,
+                "Reliability": 0.18,
+                "Power Consumption": 1642.63
+            },
+            {
+                "Response Time": 2,
+                "Throughput": 28,
+                "Availability": 4,
+                "Reliability": 0.65,
+                "Power Consumption": 1654.13
+            },
+            {
+                "Response Time": 33,
+                "Throughput": 67,
+                "Availability": 6,
+                "Reliability": 0.95,
+                "Power Consumption": 1638.52
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 68,
+                "Availability": 5,
+                "Reliability": 0.6,
+                "Power Consumption": 1542.66
+            },
+            {
+                "Response Time": 34,
+                "Throughput": 22,
+                "Availability": 4,
+                "Reliability": 0.88,
+                "Power Consumption": 1060.69
+            },
+            {
+                "Response Time": 45,
+                "Throughput": 33,
+                "Availability": 6,
+                "Reliability": 0.77,
+                "Power Consumption": 1245.14
+            },
+            {
+                "Response Time": 44,
+                "Throughput": 26,
+                "Availability": 3,
+                "Reliability": 0.92,
+                "Power Consumption": 1713.49
+            },
+            {
+                "Response Time": 16,
+                "Throughput": 67,
+                "Availability": 5,
+                "Reliability": 0.32,
+                "Power Consumption": 1535.16
+            },
+            {
+                "Response Time": 41,
+                "Throughput": 79,
+                "Availability": 9,
+                "Reliability": 0.27,
+                "Power Consumption": 1478.61
+            },
+            {
+                "Response Time": 36,
+                "Throughput": 4,
+                "Availability": 3,
+                "Reliability": 0.36,
+                "Power Consumption": 1670.08
+            },
+            {
+                "Response Time": 36,
+                "Throughput": 53,
+                "Availability": 5,
+                "Reliability": 0.44,
+                "Power Consumption": 1743.15
+            },
+            {
+                "Response Time": 52,
+                "Throughput": 40,
+                "Availability": 10,
+                "Reliability": 0.54,
+                "Power Consumption": 1789.53
+            },
+            {
+                "Response Time": 18,
+                "Throughput": 40,
+                "Availability": 6,
+                "Reliability": 0.25,
+                "Power Consumption": 1559.67
+            },
+            {
+                "Response Time": 13,
+                "Throughput": 22,
+                "Availability": 7,
+                "Reliability": 0.48,
+                "Power Consumption": 1701.65
+            },
+            {
+                "Response Time": 11,
+                "Throughput": 2,
+                "Availability": 10,
+                "Reliability": 0.99,
+                "Power Consumption": 1185.05
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 97,
+                "Availability": 4,
+                "Reliability": 0.43,
+                "Power Consumption": 1548.95
+            },
+            {
+                "Response Time": 29,
+                "Throughput": 24,
+                "Availability": 8,
+                "Reliability": 0.62,
+                "Power Consumption": 1569.32
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 78,
+                "Availability": 8,
+                "Reliability": 0.24,
+                "Power Consumption": 1635.72
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 29,
+                "Availability": 8,
+                "Reliability": 0.63,
+                "Power Consumption": 1388.44
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 61,
+                "Availability": 4,
+                "Reliability": 0.95,
+                "Power Consumption": 1415.2
+            },
+            {
+                "Response Time": 5,
+                "Throughput": 82,
+                "Availability": 4,
+                "Reliability": 0.34,
+                "Power Consumption": 1529.15
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 61,
+                "Availability": 4,
+                "Reliability": 0.27,
+                "Power Consumption": 1519.69
+            }
+        ],
+        [
+            {
+                "Response Time": 49,
+                "Throughput": 56,
+                "Availability": 5,
+                "Reliability": 0.18,
+                "Power Consumption": 1240.38
+            },
+            {
+                "Response Time": 49,
+                "Throughput": 94,
+                "Availability": 8,
+                "Reliability": 0.6,
+                "Power Consumption": 1679.56
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 9,
+                "Availability": 6,
+                "Reliability": 0.32,
+                "Power Consumption": 1466.35
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 33,
+                "Availability": 9,
+                "Reliability": 0.2,
+                "Power Consumption": 1669.54
+            },
+            {
+                "Response Time": 16,
+                "Throughput": 34,
+                "Availability": 5,
+                "Reliability": 0.41,
+                "Power Consumption": 1522.37
+            },
+            {
+                "Response Time": 40,
+                "Throughput": 61,
+                "Availability": 10,
+                "Reliability": 1.0,
+                "Power Consumption": 1594.71
+            },
+            {
+                "Response Time": 37,
+                "Throughput": 84,
+                "Availability": 6,
+                "Reliability": 0.27,
+                "Power Consumption": 1235.62
+            },
+            {
+                "Response Time": 38,
+                "Throughput": 100,
+                "Availability": 9,
+                "Reliability": 0.19,
+                "Power Consumption": 1458.46
+            },
+            {
+                "Response Time": 55,
+                "Throughput": 61,
+                "Availability": 5,
+                "Reliability": 0.17,
+                "Power Consumption": 1780.65
+            },
+            {
+                "Response Time": 24,
+                "Throughput": 42,
+                "Availability": 5,
+                "Reliability": 0.32,
+                "Power Consumption": 1530.97
+            },
+            {
+                "Response Time": 13,
+                "Throughput": 66,
+                "Availability": 7,
+                "Reliability": 0.87,
+                "Power Consumption": 1547.76
+            },
+            {
+                "Response Time": 59,
+                "Throughput": 14,
+                "Availability": 5,
+                "Reliability": 0.78,
+                "Power Consumption": 1835.72
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 46,
+                "Availability": 5,
+                "Reliability": 0.16,
+                "Power Consumption": 1324.33
+            },
+            {
+                "Response Time": 58,
+                "Throughput": 62,
+                "Availability": 7,
+                "Reliability": 0.62,
+                "Power Consumption": 1593.1
+            },
+            {
+                "Response Time": 47,
+                "Throughput": 40,
+                "Availability": 9,
+                "Reliability": 0.95,
+                "Power Consumption": 1679.96
+            },
+            {
+                "Response Time": 26,
+                "Throughput": 46,
+                "Availability": 7,
+                "Reliability": 0.15,
+                "Power Consumption": 1319.04
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 1,
+                "Availability": 8,
+                "Reliability": 0.48,
+                "Power Consumption": 1721.38
+            },
+            {
+                "Response Time": 46,
+                "Throughput": 60,
+                "Availability": 4,
+                "Reliability": 0.19,
+                "Power Consumption": 1491.99
+            },
+            {
+                "Response Time": 47,
+                "Throughput": 13,
+                "Availability": 6,
+                "Reliability": 0.85,
+                "Power Consumption": 1549.61
+            },
+            {
+                "Response Time": 46,
+                "Throughput": 20,
+                "Availability": 9,
+                "Reliability": 0.12,
+                "Power Consumption": 1245.21
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 47,
+                "Availability": 7,
+                "Reliability": 0.46,
+                "Power Consumption": 1284.9
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 82,
+                "Availability": 8,
+                "Reliability": 0.55,
+                "Power Consumption": 1438.57
+            },
+            {
+                "Response Time": 41,
+                "Throughput": 72,
+                "Availability": 10,
+                "Reliability": 0.13,
+                "Power Consumption": 1481.27
+            },
+            {
+                "Response Time": 37,
+                "Throughput": 53,
+                "Availability": 5,
+                "Reliability": 0.66,
+                "Power Consumption": 1179.96
+            },
+            {
+                "Response Time": 16,
+                "Throughput": 8,
+                "Availability": 7,
+                "Reliability": 0.99,
+                "Power Consumption": 1283.11
+            },
+            {
+                "Response Time": 7,
+                "Throughput": 15,
+                "Availability": 8,
+                "Reliability": 0.31,
+                "Power Consumption": 1492.28
+            },
+            {
+                "Response Time": 46,
+                "Throughput": 4,
+                "Availability": 9,
+                "Reliability": 0.43,
+                "Power Consumption": 1369.08
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 63,
+                "Availability": 10,
+                "Reliability": 0.7,
+                "Power Consumption": 1576.12
+            },
+            {
+                "Response Time": 15,
+                "Throughput": 82,
+                "Availability": 9,
+                "Reliability": 0.96,
+                "Power Consumption": 1756.55
+            },
+            {
+                "Response Time": 57,
+                "Throughput": 40,
+                "Availability": 3,
+                "Reliability": 0.82,
+                "Power Consumption": 1018.86
+            },
+            {
+                "Response Time": 7,
+                "Throughput": 55,
+                "Availability": 5,
+                "Reliability": 0.92,
+                "Power Consumption": 1547.16
+            },
+            {
+                "Response Time": 9,
+                "Throughput": 71,
+                "Availability": 7,
+                "Reliability": 0.51,
+                "Power Consumption": 1545.41
+            },
+            {
+                "Response Time": 5,
+                "Throughput": 76,
+                "Availability": 3,
+                "Reliability": 0.9,
+                "Power Consumption": 1115.04
+            },
+            {
+                "Response Time": 1,
+                "Throughput": 61,
+                "Availability": 9,
+                "Reliability": 0.42,
+                "Power Consumption": 1657.52
+            },
+            {
+                "Response Time": 49,
+                "Throughput": 22,
+                "Availability": 10,
+                "Reliability": 0.92,
+                "Power Consumption": 1632.17
+            },
+            {
+                "Response Time": 22,
+                "Throughput": 22,
+                "Availability": 10,
+                "Reliability": 0.49,
+                "Power Consumption": 1225.32
+            },
+            {
+                "Response Time": 11,
+                "Throughput": 55,
+                "Availability": 5,
+                "Reliability": 0.4,
+                "Power Consumption": 1334.44
+            },
+            {
+                "Response Time": 13,
+                "Throughput": 17,
+                "Availability": 3,
+                "Reliability": 0.83,
+                "Power Consumption": 1353.32
+            },
+            {
+                "Response Time": 5,
+                "Throughput": 17,
+                "Availability": 3,
+                "Reliability": 0.56,
+                "Power Consumption": 1521.76
+            },
+            {
+                "Response Time": 33,
+                "Throughput": 63,
+                "Availability": 7,
+                "Reliability": 0.96,
+                "Power Consumption": 1624.96
+            },
+            {
+                "Response Time": 20,
+                "Throughput": 53,
+                "Availability": 10,
+                "Reliability": 0.69,
+                "Power Consumption": 1657.1
+            },
+            {
+                "Response Time": 37,
+                "Throughput": 84,
+                "Availability": 9,
+                "Reliability": 0.31,
+                "Power Consumption": 1632.38
+            },
+            {
+                "Response Time": 45,
+                "Throughput": 92,
+                "Availability": 6,
+                "Reliability": 0.57,
+                "Power Consumption": 1434.46
+            },
+            {
+                "Response Time": 59,
+                "Throughput": 91,
+                "Availability": 7,
+                "Reliability": 0.43,
+                "Power Consumption": 1617.77
+            },
+            {
+                "Response Time": 6,
+                "Throughput": 26,
+                "Availability": 3,
+                "Reliability": 0.77,
+                "Power Consumption": 1363.02
+            },
+            {
+                "Response Time": 30,
+                "Throughput": 63,
+                "Availability": 10,
+                "Reliability": 0.16,
+                "Power Consumption": 1374.37
+            },
+            {
+                "Response Time": 4,
+                "Throughput": 66,
+                "Availability": 7,
+                "Reliability": 0.85,
+                "Power Consumption": 1419.36
+            },
+            {
+                "Response Time": 59,
+                "Throughput": 21,
+                "Availability": 3,
+                "Reliability": 0.77,
+                "Power Consumption": 1419.67
+            },
+            {
+                "Response Time": 29,
+                "Throughput": 39,
+                "Availability": 8,
+                "Reliability": 1.01,
+                "Power Consumption": 1623.11
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 79,
+                "Availability": 5,
+                "Reliability": 0.42,
+                "Power Consumption": 1244.09
+            }
+        ],
+        [
+            {
+                "Response Time": 4,
+                "Throughput": 28,
+                "Availability": 10,
+                "Reliability": 0.93,
+                "Power Consumption": 1609.25
+            },
+            {
+                "Response Time": 36,
+                "Throughput": 39,
+                "Availability": 6,
+                "Reliability": 0.58,
+                "Power Consumption": 1324.23
+            },
+            {
+                "Response Time": 14,
+                "Throughput": 18,
+                "Availability": 8,
+                "Reliability": 0.13,
+                "Power Consumption": 1120.44
+            },
+            {
+                "Response Time": 11,
+                "Throughput": 57,
+                "Availability": 8,
+                "Reliability": 0.64,
+                "Power Consumption": 1495.92
+            },
+            {
+                "Response Time": 52,
+                "Throughput": 54,
+                "Availability": 10,
+                "Reliability": 0.17,
+                "Power Consumption": 1370.4
+            },
+            {
+                "Response Time": 35,
+                "Throughput": 3,
+                "Availability": 4,
+                "Reliability": 0.61,
+                "Power Consumption": 1723.42
+            },
+            {
+                "Response Time": 56,
+                "Throughput": 64,
+                "Availability": 4,
+                "Reliability": 0.98,
+                "Power Consumption": 1839.51
+            },
+            {
+                "Response Time": 56,
+                "Throughput": 73,
+                "Availability": 6,
+                "Reliability": 0.93,
+                "Power Consumption": 1621.13
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 72,
+                "Availability": 5,
+                "Reliability": 0.63,
+                "Power Consumption": 1399.96
+            },
+            {
+                "Response Time": 40,
+                "Throughput": 34,
+                "Availability": 6,
+                "Reliability": 0.5,
+                "Power Consumption": 1713.64
+            },
+            {
+                "Response Time": 1,
+                "Throughput": 4,
+                "Availability": 8,
+                "Reliability": 0.11,
+                "Power Consumption": 1494.11
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 71,
+                "Availability": 6,
+                "Reliability": 0.7,
+                "Power Consumption": 1193.9
+            },
+            {
+                "Response Time": 57,
+                "Throughput": 87,
+                "Availability": 9,
+                "Reliability": 0.15,
+                "Power Consumption": 1072.5
+            },
+            {
+                "Response Time": 9,
+                "Throughput": 46,
+                "Availability": 9,
+                "Reliability": 0.16,
+                "Power Consumption": 1591.37
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 32,
+                "Availability": 9,
+                "Reliability": 0.1,
+                "Power Consumption": 1700.39
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 72,
+                "Availability": 9,
+                "Reliability": 0.53,
+                "Power Consumption": 1182.23
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 57,
+                "Availability": 7,
+                "Reliability": 0.31,
+                "Power Consumption": 1253.47
+            },
+            {
+                "Response Time": 32,
+                "Throughput": 40,
+                "Availability": 3,
+                "Reliability": 0.33,
+                "Power Consumption": 1523.7
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 51,
+                "Availability": 5,
+                "Reliability": 0.33,
+                "Power Consumption": 1114.03
+            },
+            {
+                "Response Time": 33,
+                "Throughput": 19,
+                "Availability": 9,
+                "Reliability": 0.8,
+                "Power Consumption": 1224.67
+            },
+            {
+                "Response Time": 48,
+                "Throughput": 1,
+                "Availability": 9,
+                "Reliability": 0.37,
+                "Power Consumption": 1334.6
+            },
+            {
+                "Response Time": 54,
+                "Throughput": 91,
+                "Availability": 5,
+                "Reliability": 0.17,
+                "Power Consumption": 1488.05
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 11,
+                "Availability": 7,
+                "Reliability": 0.8,
+                "Power Consumption": 1177.69
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 48,
+                "Availability": 10,
+                "Reliability": 0.29,
+                "Power Consumption": 1440.1
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 89,
+                "Availability": 5,
+                "Reliability": 0.9,
+                "Power Consumption": 1516.19
+            },
+            {
+                "Response Time": 13,
+                "Throughput": 73,
+                "Availability": 10,
+                "Reliability": 0.29,
+                "Power Consumption": 1573.52
+            },
+            {
+                "Response Time": 57,
+                "Throughput": 77,
+                "Availability": 9,
+                "Reliability": 0.71,
+                "Power Consumption": 1778.03
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 40,
+                "Availability": 6,
+                "Reliability": 0.49,
+                "Power Consumption": 1706.49
+            },
+            {
+                "Response Time": 6,
+                "Throughput": 9,
+                "Availability": 8,
+                "Reliability": 0.65,
+                "Power Consumption": 1714.04
+            },
+            {
+                "Response Time": 20,
+                "Throughput": 46,
+                "Availability": 10,
+                "Reliability": 0.46,
+                "Power Consumption": 1543.7
+            },
+            {
+                "Response Time": 57,
+                "Throughput": 24,
+                "Availability": 4,
+                "Reliability": 0.9,
+                "Power Consumption": 1574.1
+            },
+            {
+                "Response Time": 59,
+                "Throughput": 2,
+                "Availability": 10,
+                "Reliability": 0.78,
+                "Power Consumption": 1577.41
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 100,
+                "Availability": 10,
+                "Reliability": 0.8,
+                "Power Consumption": 1861.78
+            },
+            {
+                "Response Time": 3,
+                "Throughput": 17,
+                "Availability": 7,
+                "Reliability": 0.12,
+                "Power Consumption": 1788.04
+            },
+            {
+                "Response Time": 44,
+                "Throughput": 83,
+                "Availability": 9,
+                "Reliability": 0.4,
+                "Power Consumption": 1168.3
+            },
+            {
+                "Response Time": 33,
+                "Throughput": 49,
+                "Availability": 10,
+                "Reliability": 0.73,
+                "Power Consumption": 1695.26
+            },
+            {
+                "Response Time": 49,
+                "Throughput": 63,
+                "Availability": 4,
+                "Reliability": 0.7,
+                "Power Consumption": 1717.45
+            },
+            {
+                "Response Time": 31,
+                "Throughput": 17,
+                "Availability": 10,
+                "Reliability": 0.79,
+                "Power Consumption": 1484.33
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 96,
+                "Availability": 5,
+                "Reliability": 0.35,
+                "Power Consumption": 1530.64
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 32,
+                "Availability": 3,
+                "Reliability": 0.97,
+                "Power Consumption": 1415.38
+            },
+            {
+                "Response Time": 43,
+                "Throughput": 23,
+                "Availability": 9,
+                "Reliability": 0.47,
+                "Power Consumption": 1354.15
+            },
+            {
+                "Response Time": 39,
+                "Throughput": 19,
+                "Availability": 5,
+                "Reliability": 0.31,
+                "Power Consumption": 1271.89
+            },
+            {
+                "Response Time": 38,
+                "Throughput": 6,
+                "Availability": 10,
+                "Reliability": 0.73,
+                "Power Consumption": 1358.96
+            },
+            {
+                "Response Time": 19,
+                "Throughput": 93,
+                "Availability": 3,
+                "Reliability": 0.98,
+                "Power Consumption": 1555.17
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 38,
+                "Availability": 6,
+                "Reliability": 0.53,
+                "Power Consumption": 1430.16
+            },
+            {
+                "Response Time": 38,
+                "Throughput": 76,
+                "Availability": 3,
+                "Reliability": 0.27,
+                "Power Consumption": 1760.46
+            },
+            {
+                "Response Time": 38,
+                "Throughput": 50,
+                "Availability": 5,
+                "Reliability": 0.76,
+                "Power Consumption": 1489.85
+            },
+            {
+                "Response Time": 9,
+                "Throughput": 16,
+                "Availability": 5,
+                "Reliability": 0.53,
+                "Power Consumption": 1382.2
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 13,
+                "Availability": 10,
+                "Reliability": 0.9,
+                "Power Consumption": 1327.46
+            },
+            {
+                "Response Time": 6,
+                "Throughput": 20,
+                "Availability": 8,
+                "Reliability": 0.64,
+                "Power Consumption": 1716.66
+            }
+        ],
+        [
+            {
+                "Response Time": 50,
+                "Throughput": 12,
+                "Availability": 8,
+                "Reliability": 0.17,
+                "Power Consumption": 1565.49
+            },
+            {
+                "Response Time": 51,
+                "Throughput": 7,
+                "Availability": 9,
+                "Reliability": 0.85,
+                "Power Consumption": 1863.46
+            },
+            {
+                "Response Time": 4,
+                "Throughput": 18,
+                "Availability": 4,
+                "Reliability": 0.85,
+                "Power Consumption": 1297.16
+            },
+            {
+                "Response Time": 6,
+                "Throughput": 92,
+                "Availability": 7,
+                "Reliability": 0.4,
+                "Power Consumption": 1804.74
+            },
+            {
+                "Response Time": 2,
+                "Throughput": 59,
+                "Availability": 8,
+                "Reliability": 0.34,
+                "Power Consumption": 1374.49
+            },
+            {
+                "Response Time": 22,
+                "Throughput": 64,
+                "Availability": 3,
+                "Reliability": 0.74,
+                "Power Consumption": 1254.25
+            },
+            {
+                "Response Time": 28,
+                "Throughput": 13,
+                "Availability": 10,
+                "Reliability": 0.24,
+                "Power Consumption": 1413.62
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 45,
+                "Availability": 9,
+                "Reliability": 0.33,
+                "Power Consumption": 1664.63
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 52,
+                "Availability": 5,
+                "Reliability": 0.24,
+                "Power Consumption": 1507.74
+            },
+            {
+                "Response Time": 18,
+                "Throughput": 92,
+                "Availability": 4,
+                "Reliability": 0.22,
+                "Power Consumption": 1755.63
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 84,
+                "Availability": 6,
+                "Reliability": 0.4,
+                "Power Consumption": 1516.54
+            },
+            {
+                "Response Time": 57,
+                "Throughput": 31,
+                "Availability": 4,
+                "Reliability": 0.85,
+                "Power Consumption": 1422.14
+            },
+            {
+                "Response Time": 43,
+                "Throughput": 64,
+                "Availability": 9,
+                "Reliability": 0.46,
+                "Power Consumption": 1105.07
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 21,
+                "Availability": 9,
+                "Reliability": 0.63,
+                "Power Consumption": 1551.16
+            },
+            {
+                "Response Time": 24,
+                "Throughput": 3,
+                "Availability": 6,
+                "Reliability": 0.12,
+                "Power Consumption": 1229.88
+            },
+            {
+                "Response Time": 56,
+                "Throughput": 47,
+                "Availability": 10,
+                "Reliability": 0.98,
+                "Power Consumption": 1742.81
+            },
+            {
+                "Response Time": 36,
+                "Throughput": 45,
+                "Availability": 10,
+                "Reliability": 0.29,
+                "Power Consumption": 1112.86
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 43,
+                "Availability": 4,
+                "Reliability": 0.42,
+                "Power Consumption": 1183.91
+            },
+            {
+                "Response Time": 47,
+                "Throughput": 74,
+                "Availability": 10,
+                "Reliability": 0.37,
+                "Power Consumption": 1318.43
+            },
+            {
+                "Response Time": 47,
+                "Throughput": 7,
+                "Availability": 7,
+                "Reliability": 0.37,
+                "Power Consumption": 1165.52
+            },
+            {
+                "Response Time": 33,
+                "Throughput": 20,
+                "Availability": 10,
+                "Reliability": 0.88,
+                "Power Consumption": 1680.14
+            },
+            {
+                "Response Time": 59,
+                "Throughput": 51,
+                "Availability": 9,
+                "Reliability": 0.15,
+                "Power Consumption": 1266.02
+            },
+            {
+                "Response Time": 36,
+                "Throughput": 9,
+                "Availability": 6,
+                "Reliability": 0.64,
+                "Power Consumption": 1154.8
+            },
+            {
+                "Response Time": 23,
+                "Throughput": 93,
+                "Availability": 5,
+                "Reliability": 0.26,
+                "Power Consumption": 1351.69
+            },
+            {
+                "Response Time": 6,
+                "Throughput": 31,
+                "Availability": 4,
+                "Reliability": 0.54,
+                "Power Consumption": 1300.24
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 77,
+                "Availability": 9,
+                "Reliability": 0.58,
+                "Power Consumption": 1791.86
+            },
+            {
+                "Response Time": 24,
+                "Throughput": 23,
+                "Availability": 4,
+                "Reliability": 0.31,
+                "Power Consumption": 1197.83
+            },
+            {
+                "Response Time": 20,
+                "Throughput": 33,
+                "Availability": 4,
+                "Reliability": 0.81,
+                "Power Consumption": 1925.76
+            },
+            {
+                "Response Time": 53,
+                "Throughput": 40,
+                "Availability": 8,
+                "Reliability": 0.75,
+                "Power Consumption": 1399.21
+            },
+            {
+                "Response Time": 36,
+                "Throughput": 28,
+                "Availability": 5,
+                "Reliability": 0.24,
+                "Power Consumption": 1545.9
+            },
+            {
+                "Response Time": 38,
+                "Throughput": 42,
+                "Availability": 5,
+                "Reliability": 0.6,
+                "Power Consumption": 1165.54
+            },
+            {
+                "Response Time": 17,
+                "Throughput": 63,
+                "Availability": 4,
+                "Reliability": 0.43,
+                "Power Consumption": 1590.89
+            },
+            {
+                "Response Time": 14,
+                "Throughput": 82,
+                "Availability": 10,
+                "Reliability": 0.65,
+                "Power Consumption": 1639.28
+            },
+            {
+                "Response Time": 14,
+                "Throughput": 52,
+                "Availability": 4,
+                "Reliability": 0.81,
+                "Power Consumption": 1669.02
+            },
+            {
+                "Response Time": 48,
+                "Throughput": 5,
+                "Availability": 5,
+                "Reliability": 1.0,
+                "Power Consumption": 1560.81
+            },
+            {
+                "Response Time": 36,
+                "Throughput": 100,
+                "Availability": 9,
+                "Reliability": 0.86,
+                "Power Consumption": 1810.97
+            },
+            {
+                "Response Time": 56,
+                "Throughput": 4,
+                "Availability": 6,
+                "Reliability": 0.44,
+                "Power Consumption": 1330.95
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 18,
+                "Availability": 6,
+                "Reliability": 0.94,
+                "Power Consumption": 1535.91
+            },
+            {
+                "Response Time": 58,
+                "Throughput": 10,
+                "Availability": 4,
+                "Reliability": 0.14,
+                "Power Consumption": 1501.83
+            },
+            {
+                "Response Time": 30,
+                "Throughput": 30,
+                "Availability": 6,
+                "Reliability": 0.45,
+                "Power Consumption": 1826.01
+            },
+            {
+                "Response Time": 47,
+                "Throughput": 26,
+                "Availability": 7,
+                "Reliability": 0.56,
+                "Power Consumption": 1732.51
+            },
+            {
+                "Response Time": 12,
+                "Throughput": 15,
+                "Availability": 9,
+                "Reliability": 0.68,
+                "Power Consumption": 1457.61
+            },
+            {
+                "Response Time": 42,
+                "Throughput": 65,
+                "Availability": 4,
+                "Reliability": 0.45,
+                "Power Consumption": 1562.22
+            },
+            {
+                "Response Time": 56,
+                "Throughput": 94,
+                "Availability": 5,
+                "Reliability": 0.69,
+                "Power Consumption": 1559.9
+            },
+            {
+                "Response Time": 55,
+                "Throughput": 66,
+                "Availability": 9,
+                "Reliability": 0.57,
+                "Power Consumption": 1152.95
+            },
+            {
+                "Response Time": 30,
+                "Throughput": 64,
+                "Availability": 7,
+                "Reliability": 0.73,
+                "Power Consumption": 1344.59
+            },
+            {
+                "Response Time": 32,
+                "Throughput": 39,
+                "Availability": 6,
+                "Reliability": 0.68,
+                "Power Consumption": 1482.38
+            },
+            {
+                "Response Time": 9,
+                "Throughput": 11,
+                "Availability": 10,
+                "Reliability": 0.22,
+                "Power Consumption": 1573.05
+            },
+            {
+                "Response Time": 21,
+                "Throughput": 59,
+                "Availability": 8,
+                "Reliability": 0.39,
+                "Power Consumption": 1690.55
+            },
+            {
+                "Response Time": 60,
+                "Throughput": 98,
+                "Availability": 8,
+                "Reliability": 0.57,
+                "Power Consumption": 1742.35
+            }
+        ]
+    ]
+}

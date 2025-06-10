@@ -1,2 +1,2 @@
 # QWS-and-IoTS-datasets
-there are two datasets from original paper
+There are two datasets from the original paper
